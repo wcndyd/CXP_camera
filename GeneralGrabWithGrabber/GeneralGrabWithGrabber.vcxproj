@@ -169,8 +169,7 @@
     <ClInclude Include="util.h" />
   </ItemGroup>
   <ItemGroup>
-    <Library Include="..\..\..\Lib\x64\IKapBoard.lib" />
-    <Library Include="..\..\..\Lib\x64\IKapC.lib" />
+    <Library Include="..\..\..\..\IKapLibrary\Lib\x64\IKapBoard.lib" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -89,13 +89,13 @@ int main()
 
     cam.g_bufferCount = 10;
 
-    sprintf_s(cam.g_saveFileName, "D:\\CImage.tif");
+    sprintf_s(cam.g_saveFileName, "D:\Github\CXP_camera\CXP_camera\image_save_path");
 
     cam.g_SerialNumber = NULL;
 
     cam.g_bSoftTriggerUsed = 1;
 
-    cam.g_bLoadGrabberConfig = 0;
+    cam.g_bLoadGrabberConfig = 1;
 
     uint32_t numDevices = 0;
     res = ItkManGetDeviceCount(&numDevices);

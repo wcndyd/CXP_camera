@@ -84,7 +84,7 @@ int main()
 
     cam.g_bufferCount = 10;
 
-    sprintf_s(cam.g_saveFileName, "D:\\image\CImage.tif");
+    sprintf_s(cam.g_saveFileName, "D:\Github\CXP_camera\CXP_camera\image_save_path");
 
     cam.g_SerialNumber = NULL;
 
@@ -136,6 +136,7 @@ int main()
     /// \~chinese 开始图像采集				        \~english Start grabbing images
     StartGrabImage(&cam);
 
+   
     if (cam.g_bSoftTriggerUsed) {
         printf("Please intput t to softTrigger a frame and input e to exit: ");
         while (true) {
@@ -265,6 +266,7 @@ void CALLBACK OnFrameReady(void* pContext)
         
         ret=IKapSaveBuffer(cam->g_hBoard,nFrameIndex,cam->g_saveFileName,IKP_DEFAULT_COMPRESSION);
         CHECK_IKAPBOARD(ret);
+        printf("OK\n");
     }
 }
 

@@ -1,83 +1,4 @@
-﻿  ConfigureCamera.cpp
-D:\IKapLibrary\Include\IKapBoard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapBoardInfoType.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapBoardInfoType.h(785,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapBoardInfoType.h(1633,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapBoardInfoType.h(2438,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapBoardInfoType.h(3222,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapBoardInfoType.h(3854,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapBoard.h(681,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapBoard.h(1421,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapC.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCDef.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCStat.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCType.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCDef.h(1034,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCDef.h(1918,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCDef.h(2854,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCDef.h(3859,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCDeprecated.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCDeprecated.h(682,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCDeprecated.h(1439,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapCDeprecated.h(2210,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapC.h(780,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapC.h(1616,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapC.h(2342,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapC.h(3035,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-D:\IKapLibrary\Include\IKapC.h(3832,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-  (编译源文件“../GeneralConfigureCamera/ConfigureCamera.cpp”)
-  
-  main.cpp
+﻿  main.cpp
 D:\IKapLibrary\Include\IKapBoard.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   (编译源文件“main.cpp”)
   
@@ -156,6 +77,7 @@ D:\IKapLibrary\Include\IKapC.h(3035,1): warning C4819: 该文件包含不能在�
 D:\IKapLibrary\Include\IKapC.h(3832,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   (编译源文件“main.cpp”)
   
-D:\IKapLibrary\Examples\C\GeneralGrabWithGrabber\main.cpp(87,35): warning C4129: “C：: 不可识别的字符转义序列
-  正在生成代码...
-  GeneralGrabWithGrabber.vcxproj -> D:\IKapLibrary\Examples\C\x64\Debug\GeneralGrabWithGrabber.exe
+D:\Github\CXP_camera\CXP_camera\GeneralGrabWithGrabber\main.cpp(87,35): warning C4129: “G：: 不可识别的字符转义序列
+D:\Github\CXP_camera\CXP_camera\GeneralGrabWithGrabber\main.cpp(87,35): warning C4129: “C：: 不可识别的字符转义序列
+D:\Github\CXP_camera\CXP_camera\GeneralGrabWithGrabber\main.cpp(87,35): warning C4129: “i：: 不可识别的字符转义序列
+  GeneralGrabWithGrabber.vcxproj -> D:\Github\CXP_camera\CXP_camera\x64\Debug\GeneralGrabWithGrabber.exe

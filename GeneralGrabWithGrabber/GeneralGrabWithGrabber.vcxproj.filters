@@ -49,7 +49,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Library Include="..\..\..\Lib\x64\IKapC.lib" />
-    <Library Include="..\..\..\Lib\x64\IKapBoard.lib" />
+    <Library Include="..\..\..\..\IKapLibrary\Lib\x64\IKapBoard.lib" />
   </ItemGroup>
 </Project>
