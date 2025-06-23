@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\GeneralGrabWithGrabber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\GeneralGrabWithGrabber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -42,17 +42,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 332,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GeneralGrabWithGrabber.cpp",
               "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\GeneralGrabWithGrabber.cpp",
               "RelativeDocumentMoniker": "Camera\\GeneralGrabWithGrabber.cpp",
               "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\GeneralGrabWithGrabber.cpp",
               "RelativeToolTip": "Camera\\GeneralGrabWithGrabber.cpp",
-              "ViewState": "AgIAAJIAAAAAAAAAAAAhwIwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAhwFoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-23T08:12:05.918Z",
               "EditorCaption": ""
@@ -111,13 +111,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\main.cpp",
               "RelativeDocumentMoniker": "Camera\\main.cpp",
               "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\main.cpp",
               "RelativeToolTip": "Camera\\main.cpp",
-              "ViewState": "AgIAANgAAAAAAAAAAAAAAPAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-23T04:55:11.383Z",
               "EditorCaption": ""
