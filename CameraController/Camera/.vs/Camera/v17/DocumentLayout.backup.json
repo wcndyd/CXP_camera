@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\GeneralGrabWithGrabber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\GeneralGrabWithGrabber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\GeneralGrabWithGrabber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\GeneralGrabWithGrabber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\ConfigureCamera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\ConfigureCamera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\ConfigureCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\ConfigureCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{675FEF57-E464-4451-B2D1-65FD671EE66E}|Camera\\Camera.vcxproj|solutionrelative:Camera\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralGrabWithGrabber.cpp",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\GeneralGrabWithGrabber.cpp",
+              "RelativeDocumentMoniker": "Camera\\GeneralGrabWithGrabber.cpp",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\GeneralGrabWithGrabber.cpp",
+              "RelativeToolTip": "Camera\\GeneralGrabWithGrabber.cpp",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAhwIwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T08:12:05.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigureCamera.cpp",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\ConfigureCamera.cpp",
+              "RelativeDocumentMoniker": "Camera\\ConfigureCamera.cpp",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\ConfigureCamera.cpp",
+              "RelativeToolTip": "Camera\\ConfigureCamera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T08:10:55.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneralGrabWithGrabber.h",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\GeneralGrabWithGrabber.h",
+              "RelativeDocumentMoniker": "Camera\\GeneralGrabWithGrabber.h",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\GeneralGrabWithGrabber.h",
+              "RelativeToolTip": "Camera\\GeneralGrabWithGrabber.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-23T08:10:04.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigureCamera.h",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\ConfigureCamera.h",
+              "RelativeDocumentMoniker": "Camera\\ConfigureCamera.h",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\ConfigureCamera.h",
+              "RelativeToolTip": "Camera\\ConfigureCamera.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-23T08:08:42.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "util.h",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\util.h",
+              "RelativeDocumentMoniker": "Camera\\util.h",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\util.h",
+              "RelativeToolTip": "Camera\\util.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-23T05:08:18.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\main.cpp",
+              "RelativeDocumentMoniker": "Camera\\main.cpp",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\main.cpp",
+              "RelativeToolTip": "Camera\\main.cpp",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAPAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T04:55:11.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Camera.h",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\Camera.h",
+              "RelativeDocumentMoniker": "Camera\\Camera.h",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\Camera.h",
+              "RelativeToolTip": "Camera\\Camera.h",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-23T03:00:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "util.cpp",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\util.cpp",
+              "RelativeDocumentMoniker": "Camera\\util.cpp",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\CamereController\\Camera\\Camera\\util.cpp",
+              "RelativeToolTip": "Camera\\util.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAADwv1UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T03:00:22.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

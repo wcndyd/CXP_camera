@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Github\\CXP_camera\\CXP_camera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B898DE7-8E36-47E8-9C60-C7BF0E482F52}|GeneralGrabWithGrabber\\GeneralGrabWithGrabber.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\GeneralGrabWithGrabber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0B898DE7-8E36-47E8-9C60-C7BF0E482F52}|GeneralGrabWithGrabber\\GeneralGrabWithGrabber.vcxproj|solutionrelative:GeneralGrabWithGrabber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6B6D1605-0520-4B36-8716-CCB72B858655}|SimpleGrabWithGrabber\\SimpleGrabWithGrabber.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\SimpleGrabWithGrabber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B6D1605-0520-4B36-8716-CCB72B858655}|SimpleGrabWithGrabber\\SimpleGrabWithGrabber.vcxproj|solutionrelative:SimpleGrabWithGrabber\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3E76220-67D3-4CD0-9E42-6D434813059F}|SimpleGrab\\SimpleGrab.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\SimpleGrab\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3E76220-67D3-4CD0-9E42-6D434813059F}|SimpleGrab\\SimpleGrab.vcxproj|solutionrelative:SimpleGrab\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6D1605-0520-4B36-8716-CCB72B858655}|SimpleGrabWithGrabber\\SimpleGrabWithGrabber.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\GeneralGrabWithGrabber\\GeneralGrabWithGrabber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B6D1605-0520-4B36-8716-CCB72B858655}|SimpleGrabWithGrabber\\SimpleGrabWithGrabber.vcxproj|solutionrelative:GeneralGrabWithGrabber\\GeneralGrabWithGrabber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6D1605-0520-4B36-8716-CCB72B858655}|SimpleGrabWithGrabber\\SimpleGrabWithGrabber.vcxproj|D:\\Github\\CXP_camera\\CXP_camera\\GeneralConfigureCamera\\ConfigureCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6B6D1605-0520-4B36-8716-CCB72B858655}|SimpleGrabWithGrabber\\SimpleGrabWithGrabber.vcxproj|solutionrelative:GeneralConfigureCamera\\ConfigureCamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,25 +25,70 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 332,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\SimpleGrab\\main.cpp",
+              "RelativeDocumentMoniker": "SimpleGrab\\main.cpp",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\SimpleGrab\\main.cpp",
+              "RelativeToolTip": "SimpleGrab\\main.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv2IAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T04:39:03.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneralGrabWithGrabber.cpp",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\GeneralGrabWithGrabber\\GeneralGrabWithGrabber.cpp",
+              "RelativeDocumentMoniker": "GeneralGrabWithGrabber\\GeneralGrabWithGrabber.cpp",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\GeneralGrabWithGrabber\\GeneralGrabWithGrabber.cpp",
+              "RelativeToolTip": "GeneralGrabWithGrabber\\GeneralGrabWithGrabber.cpp",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAHwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T04:35:29.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigureCamera.cpp",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\GeneralConfigureCamera\\ConfigureCamera.cpp",
+              "RelativeDocumentMoniker": "GeneralConfigureCamera\\ConfigureCamera.cpp",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\GeneralConfigureCamera\\ConfigureCamera.cpp",
+              "RelativeToolTip": "GeneralConfigureCamera\\ConfigureCamera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-23T03:07:39.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\GeneralGrabWithGrabber\\main.cpp",
-              "RelativeDocumentMoniker": "GeneralGrabWithGrabber\\main.cpp",
-              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\GeneralGrabWithGrabber\\main.cpp",
-              "RelativeToolTip": "GeneralGrabWithGrabber\\main.cpp",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAAAH8AAAATAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Github\\CXP_camera\\CXP_camera\\SimpleGrabWithGrabber\\main.cpp",
+              "RelativeDocumentMoniker": "SimpleGrabWithGrabber\\main.cpp",
+              "ToolTip": "D:\\Github\\CXP_camera\\CXP_camera\\SimpleGrabWithGrabber\\main.cpp",
+              "RelativeToolTip": "SimpleGrabWithGrabber\\main.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAEwFYAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-20T08:31:48.795Z",
+              "WhenOpened": "2025-06-23T03:00:44.809Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
